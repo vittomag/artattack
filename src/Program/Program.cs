@@ -41,6 +41,7 @@ public class Multiplication
     }
 }
 
+// Devuelve a al cuadrado
 public class Power
 {
     public static int Squared(int a)
