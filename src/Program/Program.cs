@@ -32,6 +32,7 @@ public class Addition
     }
 }
 
+// Esta clase implementa la operación multipliación
 public class Multiplication
 {
     public static int Multiply(int a, int b)
